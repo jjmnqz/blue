@@ -4,8 +4,8 @@
   <title>Hello!</title>
 </head>
 <body>
-  <h1>Welcome to my website!</h1>
-  <h2>Hello
+  <h1 style="color:blue;">Welcome to my website!</h1>
+  <h2>Hello!</h2>
   Hello, world!
-</body>
+ </body>
 </html>
